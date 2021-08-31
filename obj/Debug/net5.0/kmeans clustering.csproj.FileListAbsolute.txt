@@ -1,0 +1,16 @@
+C:\Users\Helga\Desktop\kmeans clustering\bin\Debug\net5.0\kmeans clustering.exe
+C:\Users\Helga\Desktop\kmeans clustering\bin\Debug\net5.0\kmeans clustering.deps.json
+C:\Users\Helga\Desktop\kmeans clustering\bin\Debug\net5.0\kmeans clustering.runtimeconfig.json
+C:\Users\Helga\Desktop\kmeans clustering\bin\Debug\net5.0\kmeans clustering.runtimeconfig.dev.json
+C:\Users\Helga\Desktop\kmeans clustering\bin\Debug\net5.0\kmeans clustering.dll
+C:\Users\Helga\Desktop\kmeans clustering\bin\Debug\net5.0\ref\kmeans clustering.dll
+C:\Users\Helga\Desktop\kmeans clustering\bin\Debug\net5.0\kmeans clustering.pdb
+C:\Users\Helga\Desktop\kmeans clustering\obj\Debug\net5.0\kmeans clustering.csprojAssemblyReference.cache
+C:\Users\Helga\Desktop\kmeans clustering\obj\Debug\net5.0\kmeans clustering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helga\Desktop\kmeans clustering\obj\Debug\net5.0\kmeans clustering.AssemblyInfoInputs.cache
+C:\Users\Helga\Desktop\kmeans clustering\obj\Debug\net5.0\kmeans clustering.AssemblyInfo.cs
+C:\Users\Helga\Desktop\kmeans clustering\obj\Debug\net5.0\kmeans clustering.csproj.CoreCompileInputs.cache
+C:\Users\Helga\Desktop\kmeans clustering\obj\Debug\net5.0\kmeans clustering.dll
+C:\Users\Helga\Desktop\kmeans clustering\obj\Debug\net5.0\ref\kmeans clustering.dll
+C:\Users\Helga\Desktop\kmeans clustering\obj\Debug\net5.0\kmeans clustering.pdb
+C:\Users\Helga\Desktop\kmeans clustering\obj\Debug\net5.0\kmeans clustering.genruntimeconfig.cache
